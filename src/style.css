@@ -1,0 +1,30 @@
+#joplinTagLinksFooter {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+#joplinTagLinksFooter a {
+  font-size: 12px;
+  font-family: Roboto;
+  padding: 4px 10px;
+  background-color: rgb(244, 245, 246);
+  color: rgb(115, 133, 152);
+  margin-right: 2px;
+  border-radius: 100px;
+}
+
+#joplinTagLinksFooter a:link {
+  text-decoration: none;
+}
+
+#joplinTagLinksFooter a:visited {
+  text-decoration: none;
+}
+
+#joplinTagLinksFooter a:hover {
+  text-decoration: none;
+}
+
+#joplinTagLinksFooter a:active {
+  text-decoration: none;
+}
